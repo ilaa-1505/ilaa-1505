@@ -1,4 +1,4 @@
-# Hi, I'm Ilaa Chenjeri!
+# Hi, I'm Ilaa Chenjeri
 
 I'm a recent grad who got into AI because I wanted to understand how LLMs actually work, not just call an API and move on.
 
@@ -14,7 +14,7 @@ Python · HuggingFace Transformers · LangChain · FAISS · BM25 · FastAPI · R
 
 ---
 
-## A few things I've built
+## Things I've built
 
 **[Smart Bollywood Song Recommender](https://github.com/ilaa-1505/Smart-Bollywood-Songs-Recommendation)**
 You describe your exact moment. One line. It finds the song where a specific lyric proves it understood you, not your mood, not your genre, your moment. Hybrid search, dual LLM pipeline, 3D constellation UI. Live on HuggingFace.
