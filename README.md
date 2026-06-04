@@ -35,7 +35,7 @@ Two agents argue opposite sides of any topic. A judge scores each round on logic
 
 ## Right now
 
-Digging into agent architectures and mechanistic interpretability. Looking for a full-time AI/ML role, onsite or hybrid.
+Digging into agent architectures and mechanistic interpretability.
 
 ---
 
