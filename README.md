@@ -10,7 +10,7 @@ That curiosity tends to turn into code.
 
 ## What I work with
 
-Python · HuggingFace Transformers · LangChain · FAISS · BM25 · FastAPI · React · Three.js
+Python · HuggingFace Transformers · LangChain · FAISS · BM25 
 
 ---
 
